@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Faraz</h1>
 <h3 align="center">Developer passionate about learning something new all the time(trying my best not to forget as much though)</h3>
 
